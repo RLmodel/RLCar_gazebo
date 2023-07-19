@@ -48,7 +48,7 @@ ros2 launch rlcar_gazebo_navigation racecourse_bringup_launch.py
 Gazebo Image
 ![Screenshot from 2023-07-12 15-42-51](https://github.com/RLmodel/RLCar_gazebo/assets/32663016/1bef848e-ead9-4bec-80f6-cc7cd4ac7aa0)
 
-rviz Image
+Gazebo Image
 ![Screenshot from 2023-07-02 22-25-32](https://github.com/RLmodel/RLCar_gazebo/assets/32663016/a2734a6d-60fc-499f-a5cc-7e791a17ff11)
 
 Real HW
