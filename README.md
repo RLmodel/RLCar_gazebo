@@ -49,7 +49,7 @@ Rviz slam toolbox
 ![Screenshot from 2023-07-19 22-10-00](https://github.com/RLmodel/RLCar_gazebo/assets/32663016/3eb568fd-47d7-4632-a1f6-f395e72e5794)
 
 Gazebo Image
-![Screenshot from 2023-07-12 15-42-51](https://github.com/RLmodel/RLCar_gazebo/assets/32663016/1bef848e-ead9-4bec-80f6-cc7cd4ac7aa0)
+![Screenshot from 2023-07-19 22-08-23](https://github.com/RLmodel/RLCar_gazebo/assets/32663016/3f48778b-b3fd-4c78-91d6-8b8dd8a05bec)
 
 Gazebo Image
 ![Screenshot from 2023-07-02 22-25-32](https://github.com/RLmodel/RLCar_gazebo/assets/32663016/a2734a6d-60fc-499f-a5cc-7e791a17ff11)
