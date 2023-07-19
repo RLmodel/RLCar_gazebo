@@ -45,6 +45,9 @@ ros2 service call /global_costmap/clear_entirely_global_costmap nav2_msgs/srv/Cl
 ros2 launch rlcar_gazebo racecourse.launch.py use_rviz:=false
 ros2 launch rlcar_gazebo_navigation racecourse_bringup_launch.py
 ```
+Rviz slam toolbox
+![Screenshot from 2023-07-19 22-10-00](https://github.com/RLmodel/RLCar_gazebo/assets/32663016/3eb568fd-47d7-4632-a1f6-f395e72e5794)
+
 Gazebo Image
 ![Screenshot from 2023-07-12 15-42-51](https://github.com/RLmodel/RLCar_gazebo/assets/32663016/1bef848e-ead9-4bec-80f6-cc7cd4ac7aa0)
 
